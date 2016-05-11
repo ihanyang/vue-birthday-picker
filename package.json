@@ -1,0 +1,22 @@
+{
+  "name": "date-picker",
+  "version": "1.0.0",
+  "description": "移动端版日期选择组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihanyang/date-picker.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "ihanyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihanyang/date-picker/issues"
+  },
+  "homepage": "https://github.com/ihanyang/date-picker#readme"
+}
