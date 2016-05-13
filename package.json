@@ -1,5 +1,5 @@
 {
-  "name": "date-picker",
+  "name": "vue-birthday-picker",
   "version": "1.0.0",
   "description": "移动端版日期选择组件",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihanyang/date-picker.git"
+    "url": "git+https://github.com/ihanyang/vue-birthday-picker.git"
   },
   "keywords": [
     "vue"
@@ -17,9 +17,9 @@
   "author": "ihanyang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ihanyang/date-picker/issues"
+    "url": "https://github.com/ihanyang/vue-birthday-picker/issues"
   },
-  "homepage": "https://github.com/ihanyang/date-picker#readme",
+  "homepage": "https://github.com/ihanyang/vue-birthday-picker#readme",
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "babel-core": "^6.8.0",
