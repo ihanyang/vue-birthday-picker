@@ -5,7 +5,7 @@
 # Installation
 
 ## npm
-`$ npm install vue-birthday-picker`
+```$ npm install vue-birthday-picker```
 
 # Usage
 ```vue
