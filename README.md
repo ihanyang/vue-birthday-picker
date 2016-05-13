@@ -11,7 +11,7 @@
 
 # Screenshots
 
-![screenshot](https://github.com/ihanyang/date-picker/blob/master/static/screenshot-1.gif)
+![screenshot](https://github.com/ihanyang/date-picker/blob/master/screenshot-1.gif)
 
 # Liceense
 [The MIT License](http://opensource.org/licenses/MIT)
