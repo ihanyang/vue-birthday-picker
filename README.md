@@ -4,11 +4,9 @@
 
 # Usage
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+<template>
+	<date-picker :status.sync="status" :year-value.sync="year" :month-value.sync="month" v-if="status"></date-picker>
+</template>
 ```
 
 # Screenshots
