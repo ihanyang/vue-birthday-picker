@@ -124,7 +124,7 @@
 					}
 				}
 
-				if (scroll) {
+				if (scroll && ! this[type].limit) {
 					max = ~~ Math.max.apply(null, this[type].speeds)
 					maxScroll = Math.min(offset + (max * 10 * 0.8 * fontSize), 0)
 					minScroll = Math.max(offset - (max * 10 * 0.8 * fontSize), - (this[type].maxOffset - 40))
@@ -147,7 +147,7 @@
 				this[type].node.style.transition = "all .15s ease-out"
 
 				if (this[type].limit) {
-					if (offset > 0) {
+					if (currentOffset > 0) {
 						this[type].node.style.transform = `translate3d(0, 0, 0)`
 
 						this[type].offset = 0
